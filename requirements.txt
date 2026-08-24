@@ -1,0 +1,4 @@
+pageindex @ git+https://github.com/VectifyAI/PageIndex.git
+openai>=1.40.0
+python-dotenv>=1.0.1
+tqdm>=4.66.0
