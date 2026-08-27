@@ -1,0 +1,14 @@
+[project]
+name = "dental-rag"
+version = "0.1.0"
+description = "Agentic vectorless RAG over dental textbooks (PageIndex + DeepSeek)"
+requires-python = ">=3.12"
+dependencies = [
+    "pageindex",
+    "openai>=1.40.0",
+    "python-dotenv>=1.0.1",
+    "tqdm>=4.66.0",
+]
+
+[tool.uv.sources]
+pageindex = { git = "https://github.com/VectifyAI/PageIndex.git" }

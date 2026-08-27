@@ -26,43 +26,49 @@ tree search actually selects, not the whole corpus.
 
 ```
 dental-rag/
-├── .env.example        # copy to .env and fill in your DeepSeek key
-├── requirements.txt
-├── setup.sh             # one-time macOS setup
-├── batch_index.py        # Step 1: build tree index for all PDFs
-├── query_cli.py           # Step 2: interactive Q&A loop
-├── PageIndex/            # cloned dependency (created by setup.sh)
-├── textbooks/            # put your 9 PDFs here
-└── trees/                # generated *_pageindex.json tree files
+├── .env.example         # copy to .env and fill in your DeepSeek key
+├── pyproject.toml       # uv project (deps + pageindex git source)
+├── uv.lock              # pinned dependency graph (reproducible installs)
+├── .python-version      # uv-pinned Python (3.12)
+├── batch_index.py       # Step 1: build tree index for all PDFs
+├── hybrid_index.py      # Step 1 (alt): flash-first, quality-gated indexer
+├── query_cli.py         # Step 2: interactive Q&A loop
+├── PageIndex/           # cloned dependency (required at runtime)
+├── textbooks/           # put your 9 PDFs here
+└── trees/               # generated *_pageindex.json tree files
 ```
 
 ## Setup (macOS)
 
-```bash
-bash setup.sh
-```
-
-This installs Homebrew dependencies (poppler), creates a virtualenv, clones
-PageIndex, and installs Python packages.
-
-Then:
+Prerequisites: `uv`, `git`, and poppler (for `pdftotext`/`pdfinfo`).
 
 ```bash
-# 1. Put your 9 PDFs in ./textbooks/
+brew install uv poppler
+
+# 1. Clone PageIndex alongside this repo (batch_index.py shells out to it)
+git clone https://github.com/VectifyAI/PageIndex.git
+
+# 2. Create the environment + install deps
+uv python pin 3.12
+uv sync
+
+# 3. Put your 9 PDFs in ./textbooks/
 cp /path/to/*.pdf textbooks/
 
-# 2. Add your DeepSeek key
-open .env   # or nano .env
+# 4. Add your DeepSeek key
+cp .env.example .env
 # set DEEPSEEK_API_KEY=sk-...
+```
 
-# 3. Activate the environment
-source venv/bin/activate
+Then (no `source activate` needed — `uv run` resolves the environment):
 
-# 4. Build the tree index for all 9 books (run once; re-run only if a PDF changes)
-python3 batch_index.py
+```bash
+# Build the tree index for all 9 books (run once; re-run only if a PDF changes)
+uv run hybrid_index.py
+# or: uv run batch_index.py
 
-# 5. Ask questions
-python3 query_cli.py
+# Ask questions
+uv run query_cli.py
 ```
 
 ## Notes
@@ -75,5 +81,5 @@ python3 query_cli.py
 - File names matter: PageIndex derives the tree file name from the PDF's file
   stem (e.g. `carranza.pdf` -> `carranza_pageindex.json`). Keep the same stem
   so `query_cli.py` can find the source PDF when it needs to extract page text.
-- Text extraction relies on `pdftotext` (poppler), installed by `setup.sh`.
+- Text extraction relies on `pdftotext` (poppler).
   Pages that are scanned/image-only will return no text and are reported as such.

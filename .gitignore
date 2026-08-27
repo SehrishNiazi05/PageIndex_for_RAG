@@ -1,19 +1,6 @@
-# Python cache
-__pycache__/
-*.pyc
-
-# Virtual environment
-venv/
-.venv/
-
-# Environment secrets (keep .env.example tracked)
 .env
-
-# Large source PDFs — don't commit textbooks
-textbooks/
-
-# PageIndex package (if it's a cloned/installed lib, not your own code)
-PageIndex/
-
-# OS files
+.venv/
+__pycache__/
 .DS_Store
+textbooks/
+PageIndex/
