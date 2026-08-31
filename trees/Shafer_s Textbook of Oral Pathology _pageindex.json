@@ -1,0 +1,252 @@
+{
+  "doc_name": "Shafer_s Textbook of Oral Pathology .pdf",
+  "structure": [
+    {
+      "title": "SECTION I DISTURBANCES OF DEVELOPMENT AND GROWTH",
+      "start_index": 28,
+      "nodes": [
+        {
+          "title": "1. Developmental Disturbances of Oral and Paraoral Structures",
+          "start_index": 28,
+          "node_id": "0002",
+          "end_index": 105,
+          "summary": ""
+        },
+        {
+          "title": "2. Benign and Malignant Tumors of the Oral Cavity",
+          "start_index": 106,
+          "node_id": "0003",
+          "end_index": 247,
+          "summary": ""
+        },
+        {
+          "title": "3. Tumors of the Salivary Glands",
+          "start_index": 248,
+          "node_id": "0004",
+          "end_index": 283,
+          "summary": ""
+        },
+        {
+          "title": "4. Cysts and Tumors of Odontogenic Origin",
+          "start_index": 284,
+          "node_id": "0005",
+          "end_index": 341,
+          "summary": ""
+        }
+      ],
+      "node_id": "0001",
+      "end_index": 341,
+      "summary": ""
+    },
+    {
+      "title": "SECTION II DISEASES OF MICROBIAL ORIGIN",
+      "start_index": 342,
+      "nodes": [
+        {
+          "title": "5. Bacterial Infections of the Oral Cavity",
+          "start_index": 342,
+          "node_id": "0007",
+          "end_index": 363,
+          "summary": ""
+        },
+        {
+          "title": "6. Viral Infections of the Oral Cavity",
+          "start_index": 364,
+          "node_id": "0008",
+          "end_index": 391,
+          "summary": ""
+        },
+        {
+          "title": "7. Mycotic Infections of the Oral Cavity",
+          "start_index": 392,
+          "node_id": "0009",
+          "end_index": 405,
+          "summary": ""
+        },
+        {
+          "title": "8. Diseases of the Periodontium",
+          "start_index": 406,
+          "node_id": "0010",
+          "end_index": 443,
+          "summary": ""
+        },
+        {
+          "title": "9. Dental Caries",
+          "start_index": 444,
+          "node_id": "0011",
+          "end_index": 499,
+          "summary": ""
+        },
+        {
+          "title": "10. Diseases of the Pulp and Periapical Tissues",
+          "start_index": 500,
+          "node_id": "0012",
+          "end_index": 527,
+          "summary": ""
+        },
+        {
+          "title": "11. Spread of Oral Infection",
+          "start_index": 528,
+          "node_id": "0013",
+          "end_index": 543,
+          "summary": ""
+        }
+      ],
+      "node_id": "0006",
+      "end_index": 543,
+      "summary": ""
+    },
+    {
+      "title": "SECTION III INJURIES AND REPAIR",
+      "start_index": 544,
+      "nodes": [
+        {
+          "title": "12. Physical and Chemical Injuries of the Oral Cavity",
+          "start_index": 544,
+          "node_id": "0015",
+          "end_index": 595,
+          "summary": ""
+        },
+        {
+          "title": "13. Regressive Alterations of the Teeth",
+          "start_index": 596,
+          "node_id": "0016",
+          "end_index": 615,
+          "summary": ""
+        },
+        {
+          "title": "14. Healing of Oral Wounds",
+          "start_index": 616,
+          "node_id": "0017",
+          "end_index": 639,
+          "summary": ""
+        }
+      ],
+      "node_id": "0014",
+      "end_index": 639,
+      "summary": ""
+    },
+    {
+      "title": "SECTION IV DISTURBANCES OF THE METABOLISM AND IMMUNOLOGIC DISEASES",
+      "start_index": 640,
+      "nodes": [
+        {
+          "title": "15. Oral Aspects of Metabolic Diseases",
+          "start_index": 640,
+          "node_id": "0019",
+          "end_index": 689,
+          "summary": ""
+        },
+        {
+          "title": "16. Allergic and Immunologic Diseases of the Oral Cavity",
+          "start_index": 690,
+          "node_id": "0020",
+          "end_index": 709,
+          "summary": ""
+        }
+      ],
+      "node_id": "0018",
+      "end_index": 709,
+      "summary": ""
+    },
+    {
+      "title": "SECTION V DISEASES OF SPECIFIC SYSTEMS",
+      "start_index": 710,
+      "nodes": [
+        {
+          "title": "17. Diseases of Bone and Joints (Non-neoplastic and Non-infectious Disorders of Bone, Skeletal Dysplasias/Dysostoses, Constitutional Bone Disorders)",
+          "start_index": 710,
+          "node_id": "0022",
+          "end_index": 785,
+          "summary": ""
+        },
+        {
+          "title": "18. Diseases of the Blood and Blood-forming Organs",
+          "start_index": 786,
+          "node_id": "0023",
+          "end_index": 829,
+          "summary": ""
+        },
+        {
+          "title": "19. Diseases of the Skin",
+          "start_index": 830,
+          "node_id": "0024",
+          "end_index": 877,
+          "summary": ""
+        },
+        {
+          "title": "20. Diseases of the Nerves and Muscles",
+          "start_index": 878,
+          "node_id": "0025",
+          "end_index": 903,
+          "summary": ""
+        }
+      ],
+      "node_id": "0021",
+      "end_index": 903,
+      "summary": ""
+    },
+    {
+      "title": "SECTION VI FORENSIC ODONTOLOGY",
+      "start_index": 904,
+      "nodes": [
+        {
+          "title": "21. Forensic Odontology",
+          "start_index": 904,
+          "node_id": "0027",
+          "end_index": 935,
+          "summary": ""
+        }
+      ],
+      "node_id": "0026",
+      "end_index": 935,
+      "summary": ""
+    },
+    {
+      "title": "APPENDICES",
+      "start_index": 936,
+      "nodes": [
+        {
+          "title": "I. Introduction to Laboratory Analyses in Oral and Maxillofacial Pathology",
+          "start_index": 936,
+          "node_id": "0029",
+          "end_index": 947,
+          "summary": ""
+        },
+        {
+          "title": "II. Mucosal Response to Oral Prostheses: Some Pathological Considerations",
+          "start_index": 948,
+          "node_id": "0030",
+          "end_index": 957,
+          "summary": ""
+        },
+        {
+          "title": "III. Routine Histotechniques, Staining and Notes on Immunohistochemistry",
+          "start_index": 958,
+          "node_id": "0031",
+          "end_index": 977,
+          "summary": ""
+        },
+        {
+          "title": "IV. Tables of Normal Values",
+          "start_index": 978,
+          "node_id": "0032",
+          "end_index": 983,
+          "summary": ""
+        }
+      ],
+      "node_id": "0028",
+      "end_index": 983,
+      "summary": ""
+    },
+    {
+      "title": "Index",
+      "start_index": 984,
+      "nodes": [],
+      "node_id": "0033",
+      "end_index": 1001,
+      "summary": ""
+    }
+  ],
+  "toc_source": "manual"
+}

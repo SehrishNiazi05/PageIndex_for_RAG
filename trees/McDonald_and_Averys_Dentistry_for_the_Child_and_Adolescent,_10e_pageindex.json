@@ -1,0 +1,340 @@
+{
+  "doc_name": "McDonald_and_Averys_Dentistry_for_the_Child_and_Adolescent,_10e.pdf",
+  "structure": [
+    {
+      "title": "PART 1 DIAGNOSES",
+      "start_index": 12,
+      "nodes": [
+        {
+          "title": "Chapter 1 Examination of the Mouth and Other Relevant Structures",
+          "start_index": 12,
+          "nodes": [],
+          "node_id": "0002",
+          "end_index": 27,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 2 Radiographic Techniques",
+          "start_index": 28,
+          "nodes": [],
+          "node_id": "0003",
+          "end_index": 49,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 3 Acquired and Developmental Disturbances of the Teeth and Associated Oral Structures",
+          "start_index": 50,
+          "nodes": [],
+          "node_id": "0004",
+          "end_index": 90,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 4 Development and Morphology of the Primary Teeth",
+          "start_index": 91,
+          "nodes": [],
+          "node_id": "0005",
+          "end_index": 97,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 5 Clinical Genetics for the Dental Practitioner",
+          "start_index": 98,
+          "nodes": [],
+          "node_id": "0006",
+          "end_index": 120,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 6 Child Abuse and Neglect",
+          "start_index": 121,
+          "nodes": [],
+          "node_id": "0007",
+          "end_index": 130,
+          "summary": ""
+        }
+      ],
+      "node_id": "0001",
+      "end_index": 130,
+      "summary": ""
+    },
+    {
+      "title": "PART 2 CARIES AND PERIODONTOLOGY",
+      "start_index": 131,
+      "nodes": [
+        {
+          "title": "Chapter 7 Mechanical and Chemotherapeutic Home Oral Hygiene",
+          "start_index": 131,
+          "nodes": [],
+          "node_id": "0009",
+          "end_index": 148,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 8 Nutritional Considerations for the Pediatric Dental Patient",
+          "start_index": 149,
+          "nodes": [],
+          "node_id": "0010",
+          "end_index": 165,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 9 Dental Caries in the Child and Adolescent",
+          "start_index": 166,
+          "nodes": [],
+          "node_id": "0011",
+          "end_index": 187,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 10 Pit-and-Fissure Sealants and Preventive Resin Restorations",
+          "start_index": 188,
+          "nodes": [],
+          "node_id": "0012",
+          "end_index": 195,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 11 Restorative Dentistry",
+          "start_index": 196,
+          "nodes": [],
+          "node_id": "0013",
+          "end_index": 216,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 12 Dental Materials",
+          "start_index": 217,
+          "nodes": [],
+          "node_id": "0014",
+          "end_index": 231,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 13 Treatment of Deep Caries, Vital Pulp Exposure, and Pulpless Teeth",
+          "start_index": 232,
+          "nodes": [],
+          "node_id": "0015",
+          "end_index": 253,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 14 Gingivitis and Periodontal Disease",
+          "start_index": 254,
+          "nodes": [],
+          "node_id": "0016",
+          "end_index": 284,
+          "summary": ""
+        }
+      ],
+      "node_id": "0008",
+      "end_index": 284,
+      "summary": ""
+    },
+    {
+      "title": "PART 3 PAIN CONTROL AND BEHAVIOR GUIDANCE",
+      "start_index": 285,
+      "nodes": [
+        {
+          "title": "Chapter 15 Local Anesthesia and Pain Control for the Child and Adolescent",
+          "start_index": 285,
+          "nodes": [],
+          "node_id": "0018",
+          "end_index": 296,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 16 Nonpharmacologic Management of Children’s Behaviors",
+          "start_index": 297,
+          "nodes": [],
+          "node_id": "0019",
+          "end_index": 313,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 17 Pharmacologic Management of Patient Behavior",
+          "start_index": 314,
+          "nodes": [],
+          "node_id": "0020",
+          "end_index": 338,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 18 Hospital Dental Services for Children and the Use of General Anesthesia",
+          "start_index": 339,
+          "nodes": [],
+          "node_id": "0021",
+          "end_index": 359,
+          "summary": ""
+        }
+      ],
+      "node_id": "0017",
+      "end_index": 359,
+      "summary": ""
+    },
+    {
+      "title": "PART 4 GROWTH AND DEVELOPMENT",
+      "start_index": 360,
+      "nodes": [
+        {
+          "title": "Chapter 19 Eruption of the Teeth: Local, Systemic, and Congenital Factors That Influence the Process",
+          "start_index": 360,
+          "nodes": [],
+          "node_id": "0023",
+          "end_index": 385,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 20 Growth of the Face and Dental Arches",
+          "start_index": 386,
+          "nodes": [],
+          "node_id": "0024",
+          "end_index": 400,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 21 Cephalometrics and Facial Aesthetics: The Key to Complete Treatment Planning",
+          "start_index": 401,
+          "nodes": [],
+          "node_id": "0025",
+          "end_index": 425,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 22 Managing the Developing Occlusion",
+          "start_index": 426,
+          "nodes": [],
+          "node_id": "0026",
+          "end_index": 489,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 23 Multidisciplinary Team Approach to Cleft Lip and Palate Management",
+          "start_index": 490,
+          "nodes": [],
+          "node_id": "0027",
+          "end_index": 508,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 24 Prosthodontic Treatment of the Adolescent Patient",
+          "start_index": 509,
+          "nodes": [],
+          "node_id": "0028",
+          "end_index": 523,
+          "summary": ""
+        }
+      ],
+      "node_id": "0022",
+      "end_index": 523,
+      "summary": ""
+    },
+    {
+      "title": "PART 5 MANAGEMENT OF SPECIAL MEDICAL ISSUES",
+      "start_index": 524,
+      "nodes": [
+        {
+          "title": "Chapter 25 Dental Problems of Children with Special Health Care Needs",
+          "start_index": 524,
+          "nodes": [],
+          "node_id": "0030",
+          "end_index": 550,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 26 Management of the Medically Compromised Patient: Hematologic Disorders, Cancer, Hepatitis, and AIDS",
+          "start_index": 551,
+          "nodes": [],
+          "node_id": "0031",
+          "end_index": 573,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 27 Management of Trauma to the Teeth and Supporting Tissues",
+          "start_index": 574,
+          "nodes": [],
+          "node_id": "0032",
+          "end_index": 613,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 28 Tumors of the Oral Soft Tissues and Cysts and Tumors of Bone",
+          "start_index": 614,
+          "nodes": [],
+          "node_id": "0033",
+          "end_index": 637,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 29 Oral Surgery for the Pediatric Patient",
+          "start_index": 638,
+          "nodes": [],
+          "node_id": "0034",
+          "end_index": 655,
+          "summary": ""
+        },
+        {
+          "title": "Chapter 30 The Child in Context of the Family, Community, and Society",
+          "start_index": 656,
+          "nodes": [],
+          "node_id": "0035",
+          "end_index": 663,
+          "summary": ""
+        }
+      ],
+      "node_id": "0029",
+      "end_index": 663,
+      "summary": ""
+    },
+    {
+      "title": "Chapter 31 Practice Management",
+      "start_index": 664,
+      "nodes": [
+        {
+          "title": "PART 1 DOCTOR’S VISION FOR THE",
+          "start_index": 665,
+          "nodes": [],
+          "node_id": "0037",
+          "end_index": 665,
+          "summary": ""
+        },
+        {
+          "title": "PART 2 MISSION STATEMENTS:",
+          "start_index": 665,
+          "nodes": [],
+          "node_id": "0038",
+          "end_index": 665,
+          "summary": ""
+        },
+        {
+          "title": "PART 3 FISCAL MANAGEMENT",
+          "start_index": 665,
+          "nodes": [],
+          "node_id": "0039",
+          "end_index": 668,
+          "summary": ""
+        },
+        {
+          "title": "PART 4 TEAM DYNAMICS",
+          "start_index": 669,
+          "nodes": [],
+          "node_id": "0040",
+          "end_index": 678,
+          "summary": ""
+        },
+        {
+          "title": "PART 5 SYSTEMS",
+          "start_index": 679,
+          "nodes": [],
+          "node_id": "0041",
+          "end_index": 711,
+          "summary": ""
+        }
+      ],
+      "node_id": "0036",
+      "end_index": 711,
+      "summary": ""
+    }
+  ],
+  "toc_source": "manual"
+}

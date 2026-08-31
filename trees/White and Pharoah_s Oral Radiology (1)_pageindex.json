@@ -1,0 +1,281 @@
+{
+  "doc_name": "White and Pharoah_s Oral Radiology (1).pdf",
+  "structure": [
+    {
+      "title": "Part I Foundations",
+      "start_index": 37,
+      "nodes": [
+        {
+          "title": "1 Physics",
+          "start_index": 38,
+          "node_id": "0002",
+          "end_index": 76,
+          "summary": ""
+        },
+        {
+          "title": "2 Biologic Effects of Ionizing Radiation",
+          "start_index": 77,
+          "node_id": "0003",
+          "end_index": 100,
+          "summary": ""
+        },
+        {
+          "title": "3 Safety and Protection",
+          "start_index": 101,
+          "node_id": "0004",
+          "end_index": 135,
+          "summary": ""
+        }
+      ],
+      "node_id": "0001",
+      "end_index": 135,
+      "summary": ""
+    },
+    {
+      "title": "Part II Imaging",
+      "start_index": 136,
+      "nodes": [
+        {
+          "title": "4 Digital Imaging",
+          "start_index": 137,
+          "node_id": "0006",
+          "end_index": 186,
+          "summary": ""
+        },
+        {
+          "title": "5 Film Imaging",
+          "start_index": 187,
+          "node_id": "0007",
+          "end_index": 236,
+          "summary": ""
+        },
+        {
+          "title": "6 Projection Geometry",
+          "start_index": 237,
+          "node_id": "0008",
+          "end_index": 255,
+          "summary": ""
+        },
+        {
+          "title": "7 Intraoral Projections",
+          "start_index": 256,
+          "node_id": "0009",
+          "end_index": 321,
+          "summary": ""
+        },
+        {
+          "title": "8 Cephalometric and Skull Imaging",
+          "start_index": 322,
+          "node_id": "0010",
+          "end_index": 346,
+          "summary": ""
+        },
+        {
+          "title": "9 Panoramic Imaging",
+          "start_index": 347,
+          "node_id": "0011",
+          "end_index": 384,
+          "summary": ""
+        },
+        {
+          "title": "10 Cone Beam Computed Tomography",
+          "start_index": 385,
+          "node_id": "0012",
+          "end_index": 416,
+          "summary": ""
+        },
+        {
+          "title": "11 Cone Beam Computed Tomography",
+          "start_index": 417,
+          "node_id": "0013",
+          "end_index": 443,
+          "summary": ""
+        },
+        {
+          "title": "12 Radiographic Anatomy",
+          "start_index": 444,
+          "node_id": "0014",
+          "end_index": 524,
+          "summary": ""
+        },
+        {
+          "title": "13 Other Imaging Modalities",
+          "start_index": 525,
+          "node_id": "0015",
+          "end_index": 567,
+          "summary": ""
+        },
+        {
+          "title": "14 Beyond Three-Dimensional Imaging",
+          "start_index": 568,
+          "node_id": "0016",
+          "end_index": 587,
+          "summary": ""
+        },
+        {
+          "title": "15 Dental Implants",
+          "start_index": 588,
+          "node_id": "0017",
+          "end_index": 628,
+          "summary": ""
+        },
+        {
+          "title": "16 Quality Assurance and Infection Control",
+          "start_index": 629,
+          "node_id": "0018",
+          "end_index": 660,
+          "summary": ""
+        },
+        {
+          "title": "17 Prescribing Diagnostic Imaging",
+          "start_index": 661,
+          "node_id": "0019",
+          "end_index": 685,
+          "summary": ""
+        }
+      ],
+      "node_id": "0005",
+      "end_index": 685,
+      "summary": ""
+    },
+    {
+      "title": "Part III Interpretation",
+      "start_index": 686,
+      "nodes": [
+        {
+          "title": "18 Principles of Radiographic Interpretation",
+          "start_index": 687,
+          "node_id": "0021",
+          "end_index": 719,
+          "summary": ""
+        },
+        {
+          "title": "19 Dental Caries",
+          "start_index": 720,
+          "node_id": "0022",
+          "end_index": 753,
+          "summary": ""
+        },
+        {
+          "title": "20 Periodontal Diseases",
+          "start_index": 754,
+          "node_id": "0023",
+          "end_index": 793,
+          "summary": ""
+        },
+        {
+          "title": "21 Dental Anomalies",
+          "start_index": 794,
+          "node_id": "0024",
+          "end_index": 869,
+          "summary": ""
+        },
+        {
+          "title": "22 Inflammatory Conditions of the Jaws",
+          "start_index": 870,
+          "node_id": "0025",
+          "end_index": 917,
+          "summary": ""
+        },
+        {
+          "title": "23 Cysts",
+          "start_index": 918,
+          "node_id": "0026",
+          "end_index": 973,
+          "summary": ""
+        },
+        {
+          "title": "24 Benign Tumors and Neoplasms",
+          "start_index": 974,
+          "node_id": "0027",
+          "end_index": 1077,
+          "summary": ""
+        },
+        {
+          "title": "25 Diseases Affecting the Structure of Bone",
+          "start_index": 1078,
+          "node_id": "0028",
+          "end_index": 1145,
+          "summary": ""
+        },
+        {
+          "title": "26 Malignant Neoplasms",
+          "start_index": 1146,
+          "node_id": "0029",
+          "end_index": 1206,
+          "summary": ""
+        },
+        {
+          "title": "27 Trauma",
+          "start_index": 1207,
+          "node_id": "0030",
+          "end_index": 1260,
+          "summary": ""
+        },
+        {
+          "title": "28 Paranasal Sinus Diseases",
+          "start_index": 1261,
+          "node_id": "0031",
+          "end_index": 1310,
+          "summary": ""
+        },
+        {
+          "title": "29 Craniofacial Anomalies",
+          "start_index": 1311,
+          "node_id": "0032",
+          "end_index": 1339,
+          "summary": ""
+        },
+        {
+          "title": "30 Temporomandibular Joint Abnormalities",
+          "start_index": 1340,
+          "node_id": "0033",
+          "end_index": 1418,
+          "summary": ""
+        },
+        {
+          "title": "31 Soft Tissue Calcifications and Ossifications",
+          "start_index": 1419,
+          "node_id": "0034",
+          "end_index": 1454,
+          "summary": ""
+        },
+        {
+          "title": "32 Salivary Gland Diseases",
+          "start_index": 1455,
+          "node_id": "0035",
+          "end_index": 1485,
+          "summary": ""
+        }
+      ],
+      "node_id": "0020",
+      "end_index": 1485,
+      "summary": ""
+    },
+    {
+      "title": "Part IV Other Applications",
+      "start_index": 1486,
+      "nodes": [
+        {
+          "title": "33 Forensics",
+          "start_index": 1487,
+          "node_id": "0037",
+          "end_index": 1500,
+          "summary": ""
+        }
+      ],
+      "node_id": "0036",
+      "end_index": 1500,
+      "summary": ""
+    },
+    {
+      "title": "Index",
+      "start_index": 1501,
+      "nodes": [],
+      "node_id": "0038",
+      "end_index": 1608,
+      "summary": ""
+    }
+  ],
+  "toc_source": "manual"
+}

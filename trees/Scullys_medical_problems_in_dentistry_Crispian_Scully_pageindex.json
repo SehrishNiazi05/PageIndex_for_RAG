@@ -1,0 +1,2186 @@
+{
+  "doc_name": "Scullys_medical_problems_in_dentistry_Crispian_Scully.pdf",
+  "structure": [
+    {
+      "title": "MEDICAL EMERGENCIES",
+      "start_index": 9,
+      "nodes": [
+        {
+          "title": "MANAGING EMERGENCIES",
+          "start_index": 10,
+          "node_id": "0002",
+          "end_index": 10,
+          "summary": ""
+        },
+        {
+          "title": "RESUSCITATION AND EMERGENCIES",
+          "start_index": 10,
+          "node_id": "0003",
+          "end_index": 11,
+          "summary": ""
+        },
+        {
+          "title": "COLLAPSE",
+          "start_index": 12,
+          "node_id": "0004",
+          "end_index": 12,
+          "summary": ""
+        },
+        {
+          "title": "COMMON EMERGENCIES",
+          "start_index": 12,
+          "node_id": "0005",
+          "end_index": 14,
+          "summary": ""
+        },
+        {
+          "title": "ANAPHYLAXIS",
+          "start_index": 15,
+          "node_id": "0006",
+          "end_index": 16,
+          "summary": ""
+        },
+        {
+          "title": "FITTING",
+          "start_index": 17,
+          "node_id": "0007",
+          "end_index": 17,
+          "summary": ""
+        },
+        {
+          "title": "SHORTNESS OF BREATH",
+          "start_index": 18,
+          "node_id": "0008",
+          "end_index": 19,
+          "summary": ""
+        },
+        {
+          "title": "REACTIONS TO DRUGS OR SEDATION",
+          "start_index": 20,
+          "node_id": "0009",
+          "end_index": 21,
+          "summary": ""
+        },
+        {
+          "title": "MENTAL DISTURBANCES",
+          "start_index": 22,
+          "node_id": "0010",
+          "end_index": 22,
+          "summary": ""
+        },
+        {
+          "title": "SEDATION EMERGENCIES",
+          "start_index": 22,
+          "node_id": "0011",
+          "end_index": 23,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 1.1 MANAGEMENT OF COMMON EMERGENCIES",
+          "start_index": 24,
+          "node_id": "0012",
+          "end_index": 29,
+          "summary": ""
+        }
+      ],
+      "node_id": "0001",
+      "end_index": 29,
+      "summary": ""
+    },
+    {
+      "title": "RISK ASSESSMENT",
+      "start_index": 30,
+      "nodes": [
+        {
+          "title": "MEDICAL HISTORY, EXAMINATION, INVESTIGATIONS AND RISK ASSESSMENT",
+          "start_index": 31,
+          "node_id": "0014",
+          "end_index": 33,
+          "summary": ""
+        },
+        {
+          "title": "MEDICAL HISTORY",
+          "start_index": 34,
+          "node_id": "0015",
+          "end_index": 39,
+          "summary": ""
+        },
+        {
+          "title": "CLINICAL EXAMINATION",
+          "start_index": 40,
+          "node_id": "0016",
+          "end_index": 43,
+          "summary": ""
+        },
+        {
+          "title": "IMAGING",
+          "start_index": 44,
+          "node_id": "0017",
+          "end_index": 49,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 2.2 COMPLEX MEDICAL HISTORY AS PROVIDED BY A DENTAL PATIENT",
+          "start_index": 50,
+          "node_id": "0018",
+          "end_index": 50,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 2.3 INTERPRETATION OF HAEMATOLOGICAL RESULTS",
+          "start_index": 51,
+          "node_id": "0019",
+          "end_index": 51,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 2.4 INTERPRETATION OF BIOCHEMICAL RESULTS",
+          "start_index": 52,
+          "node_id": "0020",
+          "end_index": 53,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 2.5 URINALYSIS: INTERPRETATION OF RESULTS",
+          "start_index": 54,
+          "node_id": "0021",
+          "end_index": 54,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 2.6 SOME IMPORTANT AUTOANTIBODIES",
+          "start_index": 55,
+          "node_id": "0022",
+          "end_index": 56,
+          "summary": ""
+        }
+      ],
+      "node_id": "0013",
+      "end_index": 56,
+      "summary": ""
+    },
+    {
+      "title": "PERIOPERATIVE CARE",
+      "start_index": 57,
+      "nodes": [
+        {
+          "title": "PAIN MANAGEMENT",
+          "start_index": 58,
+          "node_id": "0024",
+          "end_index": 60,
+          "summary": ""
+        },
+        {
+          "title": "CONTROL OF SEVERE PAIN",
+          "start_index": 61,
+          "node_id": "0025",
+          "end_index": 61,
+          "summary": ""
+        },
+        {
+          "title": "LOCAL ANAESTHESIA (LOCAL ANALGESIA)",
+          "start_index": 62,
+          "node_id": "0026",
+          "end_index": 65,
+          "summary": ""
+        },
+        {
+          "title": "CONSCIOUS SEDATION",
+          "start_index": 66,
+          "node_id": "0027",
+          "end_index": 69,
+          "summary": ""
+        },
+        {
+          "title": "PREPARATION AND CHOICE OF TECHNIQUE",
+          "start_index": 70,
+          "node_id": "0028",
+          "end_index": 73,
+          "summary": ""
+        },
+        {
+          "title": "GENERAL ANAESTHESIA",
+          "start_index": 74,
+          "node_id": "0029",
+          "end_index": 81,
+          "summary": ""
+        },
+        {
+          "title": "CENTRAL LINES (CATHETERS)",
+          "start_index": 82,
+          "node_id": "0030",
+          "end_index": 87,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 3.2 POSSIBLE CONTRAINDICATIONS TO DRUGS USED IN DENTISTRY",
+          "start_index": 88,
+          "node_id": "0031",
+          "end_index": 91,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 3.3 POSSIBLE DRUG INTERACTIONS IN DENTISTRY",
+          "start_index": 92,
+          "node_id": "0032",
+          "end_index": 98,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 3.4 GENERAL ANAESTHESIA, SEDATION AND RESUSCITATION",
+          "start_index": 99,
+          "node_id": "0033",
+          "end_index": 99,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 3.7 ANTIMICROBIAL PROPHYLAXIS",
+          "start_index": 100,
+          "node_id": "0034",
+          "end_index": 102,
+          "summary": ""
+        }
+      ],
+      "node_id": "0023",
+      "end_index": 102,
+      "summary": ""
+    },
+    {
+      "title": "SIGNS AND SYMPTOMS",
+      "start_index": 103,
+      "nodes": [
+        {
+          "title": "CONSTIPATION",
+          "start_index": 104,
+          "node_id": "0036",
+          "end_index": 104,
+          "summary": ""
+        },
+        {
+          "title": "CERVICAL LYMPH NODE ENLARGEMENT",
+          "start_index": 104,
+          "node_id": "0037",
+          "end_index": 105,
+          "summary": ""
+        },
+        {
+          "title": "DYSPHAGIA",
+          "start_index": 106,
+          "node_id": "0038",
+          "end_index": 107,
+          "summary": ""
+        },
+        {
+          "title": "FAINTING (VASOVAGAL SYNCOPE)",
+          "start_index": 108,
+          "node_id": "0039",
+          "end_index": 109,
+          "summary": ""
+        },
+        {
+          "title": "HEARING IMPAIRMENT",
+          "start_index": 110,
+          "node_id": "0040",
+          "end_index": 111,
+          "summary": ""
+        },
+        {
+          "title": "HYPERTHERMIA",
+          "start_index": 112,
+          "node_id": "0041",
+          "end_index": 112,
+          "summary": ""
+        },
+        {
+          "title": "HOARSENESS",
+          "start_index": 112,
+          "node_id": "0042",
+          "end_index": 112,
+          "summary": ""
+        },
+        {
+          "title": "HYPERVENTILATION",
+          "start_index": 113,
+          "node_id": "0043",
+          "end_index": 113,
+          "summary": ""
+        },
+        {
+          "title": "MENORRHAGIA",
+          "start_index": 114,
+          "node_id": "0044",
+          "end_index": 115,
+          "summary": ""
+        },
+        {
+          "title": "NYSTAGMUS",
+          "start_index": 116,
+          "node_id": "0045",
+          "end_index": 116,
+          "summary": ""
+        },
+        {
+          "title": "NECK STIFFNESS",
+          "start_index": 116,
+          "node_id": "0046",
+          "end_index": 117,
+          "summary": ""
+        },
+        {
+          "title": "PTOSIS",
+          "start_index": 118,
+          "node_id": "0047",
+          "end_index": 119,
+          "summary": ""
+        },
+        {
+          "title": "RED EYE",
+          "start_index": 120,
+          "node_id": "0048",
+          "end_index": 120,
+          "summary": ""
+        },
+        {
+          "title": "RED LESIONS IN THE MOUTH",
+          "start_index": 121,
+          "node_id": "0049",
+          "end_index": 121,
+          "summary": ""
+        },
+        {
+          "title": "SWEATING",
+          "start_index": 122,
+          "node_id": "0050",
+          "end_index": 122,
+          "summary": ""
+        },
+        {
+          "title": "SIALORRHOEA (HYPERSALIVATION)",
+          "start_index": 122,
+          "node_id": "0051",
+          "end_index": 123,
+          "summary": ""
+        },
+        {
+          "title": "TREMOR",
+          "start_index": 124,
+          "node_id": "0052",
+          "end_index": 124,
+          "summary": ""
+        },
+        {
+          "title": "TEETHING",
+          "start_index": 124,
+          "node_id": "0053",
+          "end_index": 124,
+          "summary": ""
+        },
+        {
+          "title": "TRISMUS",
+          "start_index": 125,
+          "node_id": "0054",
+          "end_index": 125,
+          "summary": ""
+        },
+        {
+          "title": "XANTHELASMA",
+          "start_index": 126,
+          "node_id": "0055",
+          "end_index": 128,
+          "summary": ""
+        }
+      ],
+      "node_id": "0035",
+      "end_index": 128,
+      "summary": ""
+    },
+    {
+      "title": "CARDIOVASCULAR MEDICINE",
+      "start_index": 129,
+      "nodes": [
+        {
+          "title": "HYPERTENSION",
+          "start_index": 134,
+          "node_id": "0057",
+          "end_index": 137,
+          "summary": ""
+        },
+        {
+          "title": "ATHEROMA AND ISCHAEMIC HEART DISEASE/CORONARY ARTERY DISEASE",
+          "start_index": 138,
+          "node_id": "0058",
+          "end_index": 139,
+          "summary": ""
+        },
+        {
+          "title": "ACUTE CORONARY SYNDROMES (ACS)",
+          "start_index": 140,
+          "node_id": "0059",
+          "end_index": 141,
+          "summary": ""
+        },
+        {
+          "title": "MYOCARDIAL INFARCTION",
+          "start_index": 142,
+          "node_id": "0060",
+          "end_index": 143,
+          "summary": ""
+        },
+        {
+          "title": "CARDIOMYOPATHIES",
+          "start_index": 144,
+          "node_id": "0061",
+          "end_index": 145,
+          "summary": ""
+        },
+        {
+          "title": "ARRHYTHMIAS (DYSRHYTHMIAS)",
+          "start_index": 146,
+          "node_id": "0062",
+          "end_index": 146,
+          "summary": ""
+        },
+        {
+          "title": "EXTRASYSTOLES (ECTOPICS)",
+          "start_index": 146,
+          "node_id": "0063",
+          "end_index": 153,
+          "summary": ""
+        },
+        {
+          "title": "KAWASAKI DISEASE (MUCOCUTANEOUS LYMPH NODE SYNDROME)",
+          "start_index": 154,
+          "node_id": "0064",
+          "end_index": 154,
+          "summary": ""
+        },
+        {
+          "title": "THYROID-RELATED HEART DISEASE",
+          "start_index": 154,
+          "node_id": "0065",
+          "end_index": 154,
+          "summary": ""
+        },
+        {
+          "title": "VALVULAR HEART DISEASE",
+          "start_index": 155,
+          "node_id": "0066",
+          "end_index": 155,
+          "summary": ""
+        },
+        {
+          "title": "RHEUMATIC FEVER",
+          "start_index": 155,
+          "node_id": "0067",
+          "end_index": 157,
+          "summary": ""
+        },
+        {
+          "title": "CARDIAC FAILURE",
+          "start_index": 158,
+          "node_id": "0068",
+          "end_index": 159,
+          "summary": ""
+        },
+        {
+          "title": "ARTERIAL DISSECTION",
+          "start_index": 160,
+          "node_id": "0069",
+          "end_index": 161,
+          "summary": ""
+        },
+        {
+          "title": "CARDIAC SURGERY",
+          "start_index": 162,
+          "node_id": "0070",
+          "end_index": 164,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 5.1 GENETIC SYNDROMES WITH ASSOCIATED CARDIAC DEFECTS",
+          "start_index": 165,
+          "node_id": "0071",
+          "end_index": 165,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 5.3 VAUGHAN-WILLIAMS CLASSIFICATION OF ANTI-ARRHYTHMIC AGENTS",
+          "start_index": 166,
+          "node_id": "0072",
+          "end_index": 167,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 5.5 MODIFICATION OF CLINICAL PROCEDURES IN PATIENTS WITH CEIDS",
+          "start_index": 168,
+          "node_id": "0073",
+          "end_index": 169,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 5.6 NON-HEALTH-CARE SOURCES OF ELECTROMAGNETIC INTERFERENCE (EMI) MODERN DEVICES, WITH THEIR SAFETY LEVELS",
+          "start_index": 170,
+          "node_id": "0074",
+          "end_index": 174,
+          "summary": ""
+        }
+      ],
+      "node_id": "0056",
+      "end_index": 174,
+      "summary": ""
+    },
+    {
+      "title": "ENDOCRINOLOGY",
+      "start_index": 175,
+      "nodes": [
+        {
+          "title": "HYPOTHALAMUS AND PITUITARY GLAND",
+          "start_index": 175,
+          "node_id": "0076",
+          "end_index": 177,
+          "summary": ""
+        },
+        {
+          "title": "PANCREAS",
+          "start_index": 178,
+          "node_id": "0077",
+          "end_index": 185,
+          "summary": ""
+        },
+        {
+          "title": "ADRENAL CORTEX",
+          "start_index": 186,
+          "node_id": "0078",
+          "end_index": 188,
+          "summary": ""
+        },
+        {
+          "title": "ADRENOCORTICAL HYPERFUNCTION",
+          "start_index": 189,
+          "node_id": "0079",
+          "end_index": 193,
+          "summary": ""
+        },
+        {
+          "title": "THYROID GLAND",
+          "start_index": 194,
+          "node_id": "0080",
+          "end_index": 197,
+          "summary": ""
+        },
+        {
+          "title": "PARATHYROID GLANDS",
+          "start_index": 198,
+          "node_id": "0081",
+          "end_index": 198,
+          "summary": ""
+        },
+        {
+          "title": "HYPOPARATHYROIDISM",
+          "start_index": 198,
+          "node_id": "0082",
+          "end_index": 199,
+          "summary": ""
+        },
+        {
+          "title": "HORMONE PRODUCTION BY TUMOURS",
+          "start_index": 200,
+          "node_id": "0083",
+          "end_index": 200,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 6.1 ENDOCRINE AND METABOLIC EFFECTS OF SOME CANCERS",
+          "start_index": 201,
+          "node_id": "0084",
+          "end_index": 202,
+          "summary": ""
+        }
+      ],
+      "node_id": "0075",
+      "end_index": 202,
+      "summary": ""
+    },
+    {
+      "title": "GASTROINTESTINAL AND PANCREATIC DISORDERS",
+      "start_index": 203,
+      "nodes": [
+        {
+          "title": "THE STOMACH AND INTESTINES",
+          "start_index": 204,
+          "node_id": "0086",
+          "end_index": 211,
+          "summary": ""
+        },
+        {
+          "title": "THE PANCREAS",
+          "start_index": 212,
+          "node_id": "0087",
+          "end_index": 212,
+          "summary": ""
+        },
+        {
+          "title": "PERITONITIS",
+          "start_index": 212,
+          "node_id": "0088",
+          "end_index": 215,
+          "summary": ""
+        }
+      ],
+      "node_id": "0085",
+      "end_index": 215,
+      "summary": ""
+    },
+    {
+      "title": "HAEMATOLOGY",
+      "start_index": 216,
+      "nodes": [
+        {
+          "title": "HAEMOSTASIS",
+          "start_index": 216,
+          "node_id": "0090",
+          "end_index": 217,
+          "summary": ""
+        },
+        {
+          "title": "HAEMOSTASIS SCREENING TESTS",
+          "start_index": 218,
+          "node_id": "0091",
+          "end_index": 221,
+          "summary": ""
+        },
+        {
+          "title": "PLATELET DISORDERS",
+          "start_index": 222,
+          "node_id": "0092",
+          "end_index": 225,
+          "summary": ""
+        },
+        {
+          "title": "CONGENITAL COAGULATION (CLOTTING) DISORDERS (COAGULOPATHIES)",
+          "start_index": 226,
+          "node_id": "0093",
+          "end_index": 231,
+          "summary": ""
+        },
+        {
+          "title": "VON WILLEBRAND DISEASE (VWD)",
+          "start_index": 232,
+          "node_id": "0094",
+          "end_index": 233,
+          "summary": ""
+        },
+        {
+          "title": "ACQUIRED COAGULATION DEFECTS",
+          "start_index": 234,
+          "node_id": "0095",
+          "end_index": 234,
+          "summary": ""
+        },
+        {
+          "title": "FACTOR XI DEFICIENCY (‘HAEMOPHILIA C’)",
+          "start_index": 234,
+          "node_id": "0096",
+          "end_index": 241,
+          "summary": ""
+        },
+        {
+          "title": "POSTOPERATIVE BLEEDING",
+          "start_index": 242,
+          "node_id": "0097",
+          "end_index": 242,
+          "summary": ""
+        },
+        {
+          "title": "FIBRINOLYTIC DRUGS",
+          "start_index": 242,
+          "node_id": "0098",
+          "end_index": 243,
+          "summary": ""
+        },
+        {
+          "title": "THROMBOTIC DISORDERS",
+          "start_index": 244,
+          "node_id": "0099",
+          "end_index": 245,
+          "summary": ""
+        },
+        {
+          "title": "ANAEMIA",
+          "start_index": 246,
+          "node_id": "0100",
+          "end_index": 259,
+          "summary": ""
+        },
+        {
+          "title": "MALIGNANT DISEASE OF LEUKOCYTES",
+          "start_index": 260,
+          "node_id": "0101",
+          "end_index": 277,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 8.2 RARE GENETIC COAGULATION-RELATED FACTOR DEFECTS",
+          "start_index": 278,
+          "node_id": "0102",
+          "end_index": 279,
+          "summary": ""
+        }
+      ],
+      "node_id": "0089",
+      "end_index": 279,
+      "summary": ""
+    },
+    {
+      "title": "HEPATOLOGY",
+      "start_index": 280,
+      "nodes": [
+        {
+          "title": "ACQUIRED LIVER DISEASE",
+          "start_index": 281,
+          "node_id": "0104",
+          "end_index": 281,
+          "summary": ""
+        },
+        {
+          "title": "HEPATITIS",
+          "start_index": 282,
+          "node_id": "0105",
+          "end_index": 291,
+          "summary": ""
+        },
+        {
+          "title": "CIRRHOSIS",
+          "start_index": 292,
+          "node_id": "0106",
+          "end_index": 293,
+          "summary": ""
+        },
+        {
+          "title": "LIVER CANCER",
+          "start_index": 294,
+          "node_id": "0107",
+          "end_index": 294,
+          "summary": ""
+        },
+        {
+          "title": "LIVER TRANSPLANTATION",
+          "start_index": 295,
+          "node_id": "0108",
+          "end_index": 295,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 9.2 HEALTH PROTECTION AGENCY GUIDANCE",
+          "start_index": 296,
+          "node_id": "0109",
+          "end_index": 297,
+          "summary": ""
+        }
+      ],
+      "node_id": "0103",
+      "end_index": 297,
+      "summary": ""
+    },
+    {
+      "title": "MENTAL HEALTH",
+      "start_index": 298,
+      "nodes": [
+        {
+          "title": "LEGISLATION",
+          "start_index": 298,
+          "node_id": "0111",
+          "end_index": 298,
+          "summary": ""
+        },
+        {
+          "title": "MENTAL CAPACITY ACT",
+          "start_index": 299,
+          "node_id": "0112",
+          "end_index": 299,
+          "summary": ""
+        },
+        {
+          "title": "BIOLOGICAL ASPECTS",
+          "start_index": 300,
+          "node_id": "0113",
+          "end_index": 301,
+          "summary": ""
+        },
+        {
+          "title": "ANXIETY AND STRESS",
+          "start_index": 302,
+          "node_id": "0114",
+          "end_index": 307,
+          "summary": ""
+        },
+        {
+          "title": "CHILDHOOD DISORDERS",
+          "start_index": 308,
+          "node_id": "0115",
+          "end_index": 308,
+          "summary": ""
+        },
+        {
+          "title": "ATTENTION-DEFICIT/HYPERACTIVITY DISORDER (ADHD)",
+          "start_index": 309,
+          "node_id": "0116",
+          "end_index": 309,
+          "summary": ""
+        },
+        {
+          "title": "SOMATIZATION DISORDERS",
+          "start_index": 310,
+          "node_id": "0117",
+          "end_index": 313,
+          "summary": ""
+        },
+        {
+          "title": "PSYCHIATRIC DISORDERS",
+          "start_index": 314,
+          "node_id": "0118",
+          "end_index": 326,
+          "summary": ""
+        }
+      ],
+      "node_id": "0110",
+      "end_index": 326,
+      "summary": ""
+    },
+    {
+      "title": "MUCOSAL, ORAL AND CUTANEOUS DISORDERS",
+      "start_index": 327,
+      "nodes": [
+        {
+          "title": "ACQUIRED MUCOCUTANEOUS DISORDERS",
+          "start_index": 328,
+          "node_id": "0120",
+          "end_index": 333,
+          "summary": ""
+        },
+        {
+          "title": "GENETIC MUCOCUTANEOUS DISORDERS",
+          "start_index": 334,
+          "node_id": "0121",
+          "end_index": 337,
+          "summary": ""
+        },
+        {
+          "title": "PERIODIC FEVER, APHTHOUS STOMATITIS, PHARYNGITIS AND CERVICAL ADENITIS (PFAPA)",
+          "start_index": 338,
+          "node_id": "0122",
+          "end_index": 340,
+          "summary": ""
+        }
+      ],
+      "node_id": "0119",
+      "end_index": 340,
+      "summary": ""
+    },
+    {
+      "title": "NEPHROLOGY",
+      "start_index": 341,
+      "nodes": [
+        {
+          "title": "CHRONIC KIDNEY DISEASE (CKD; CHRONIC RENAL DISEASE)",
+          "start_index": 342,
+          "node_id": "0124",
+          "end_index": 345,
+          "summary": ""
+        },
+        {
+          "title": "RENAL CANCER",
+          "start_index": 346,
+          "node_id": "0125",
+          "end_index": 348,
+          "summary": ""
+        }
+      ],
+      "node_id": "0123",
+      "end_index": 348,
+      "summary": ""
+    },
+    {
+      "title": "NEUROLOGY",
+      "start_index": 349,
+      "nodes": [
+        {
+          "title": "HEADACHES AND OROFACIAL PAIN",
+          "start_index": 350,
+          "node_id": "0127",
+          "end_index": 351,
+          "summary": ""
+        },
+        {
+          "title": "LOCAL CAUSES OF OROFACIAL PAIN",
+          "start_index": 352,
+          "node_id": "0128",
+          "end_index": 360,
+          "summary": ""
+        },
+        {
+          "title": "GENERAL MANAGEMENT OF HEADACHE AND OROFACIAL PAIN",
+          "start_index": 361,
+          "node_id": "0129",
+          "end_index": 361,
+          "summary": ""
+        },
+        {
+          "title": "CRANIAL NERVE LESIONS",
+          "start_index": 362,
+          "node_id": "0130",
+          "end_index": 366,
+          "summary": ""
+        },
+        {
+          "title": "VESTIBULOCOCHLEAR (OR AUDITORY) NERVE (CRANIAL NERVE VIII)",
+          "start_index": 367,
+          "node_id": "0131",
+          "end_index": 367,
+          "summary": ""
+        },
+        {
+          "title": "CEREBROVASCULAR ACCIDENTS, STROKES AND TRANSIENT ISCHAEMIC ATTACKS",
+          "start_index": 368,
+          "node_id": "0132",
+          "end_index": 371,
+          "summary": ""
+        },
+        {
+          "title": "MOVEMENT DISORDERS",
+          "start_index": 372,
+          "node_id": "0133",
+          "end_index": 375,
+          "summary": ""
+        },
+        {
+          "title": "DEMYELINATING AND DEGENERATIVE DISEASES",
+          "start_index": 376,
+          "node_id": "0134",
+          "end_index": 377,
+          "summary": ""
+        },
+        {
+          "title": "ORGANIC BRAIN DISORDERS",
+          "start_index": 378,
+          "node_id": "0135",
+          "end_index": 378,
+          "summary": ""
+        },
+        {
+          "title": "PATIENTS WITH RESPIRATORY PARALYSIS",
+          "start_index": 378,
+          "node_id": "0136",
+          "end_index": 389,
+          "summary": ""
+        },
+        {
+          "title": "SLEEP",
+          "start_index": 390,
+          "node_id": "0137",
+          "end_index": 390,
+          "summary": ""
+        },
+        {
+          "title": "HORNER SYNDROME",
+          "start_index": 390,
+          "node_id": "0138",
+          "end_index": 393,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 13.2 ANTICONVULSANT DRUGS: USES AND ADVERSE EFFECTS",
+          "start_index": 394,
+          "node_id": "0139",
+          "end_index": 394,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 13.3 PERIPHERAL NEUROPATHIES",
+          "start_index": 395,
+          "node_id": "0140",
+          "end_index": 396,
+          "summary": ""
+        }
+      ],
+      "node_id": "0126",
+      "end_index": 396,
+      "summary": ""
+    },
+    {
+      "title": "OTORHINOLARYNGOLOGY/MAXILLOFACIAL DISORDERS",
+      "start_index": 397,
+      "nodes": [
+        {
+          "title": "UPPER RESPIRATORY TRACT INFECTIONS (URTI)",
+          "start_index": 398,
+          "node_id": "0142",
+          "end_index": 399,
+          "summary": ""
+        },
+        {
+          "title": "OBSTRUCTIVE SLEEP APNOEA SYNDROME",
+          "start_index": 400,
+          "node_id": "0143",
+          "end_index": 400,
+          "summary": ""
+        },
+        {
+          "title": "ORAL AND OROPHARYNGEAL CARCINOMA",
+          "start_index": 400,
+          "node_id": "0144",
+          "end_index": 401,
+          "summary": ""
+        },
+        {
+          "title": "DEVELOPMENTAL DISORDERS",
+          "start_index": 402,
+          "node_id": "0145",
+          "end_index": 406,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 14.1 SYNDROMES THAT MAY INCLUDE CLEFT LIP/PALATE",
+          "start_index": 407,
+          "node_id": "0146",
+          "end_index": 408,
+          "summary": ""
+        }
+      ],
+      "node_id": "0141",
+      "end_index": 408,
+      "summary": ""
+    },
+    {
+      "title": "RESPIRATORY MEDICINE",
+      "start_index": 409,
+      "nodes": [
+        {
+          "title": "ASTHMA",
+          "start_index": 410,
+          "node_id": "0148",
+          "end_index": 412,
+          "summary": ""
+        },
+        {
+          "title": "CHURG–STRAUSS SYNDROME (ALLERGIC GRANULOMATOSIS OR ANGIITIS)",
+          "start_index": 413,
+          "node_id": "0149",
+          "end_index": 413,
+          "summary": ""
+        },
+        {
+          "title": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)",
+          "start_index": 414,
+          "node_id": "0150",
+          "end_index": 415,
+          "summary": ""
+        },
+        {
+          "title": "INFECTIONS",
+          "start_index": 416,
+          "node_id": "0151",
+          "end_index": 423,
+          "summary": ""
+        },
+        {
+          "title": "SARCOIDOSIS",
+          "start_index": 424,
+          "node_id": "0152",
+          "end_index": 425,
+          "summary": ""
+        },
+        {
+          "title": "CYSTIC FIBROSIS (CF; FIBROCYSTIC DISEASE; MUCOVISCIDOSIS)",
+          "start_index": 426,
+          "node_id": "0153",
+          "end_index": 426,
+          "summary": ""
+        },
+        {
+          "title": "LUNG CANCER",
+          "start_index": 426,
+          "node_id": "0154",
+          "end_index": 427,
+          "summary": ""
+        },
+        {
+          "title": "LUNG TRANSPLANTATION",
+          "start_index": 428,
+          "node_id": "0155",
+          "end_index": 428,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 15.1 OCCUPATIONAL LUNG DISEASES",
+          "start_index": 429,
+          "node_id": "0156",
+          "end_index": 430,
+          "summary": ""
+        }
+      ],
+      "node_id": "0147",
+      "end_index": 430,
+      "summary": ""
+    },
+    {
+      "title": "RHEUMATOLOGY AND ORTHOPAEDICS",
+      "start_index": 431,
+      "nodes": [
+        {
+          "title": "BONE DISEASES",
+          "start_index": 432,
+          "node_id": "0158",
+          "end_index": 437,
+          "summary": ""
+        },
+        {
+          "title": "JOINT DISEASES",
+          "start_index": 438,
+          "node_id": "0159",
+          "end_index": 441,
+          "summary": ""
+        },
+        {
+          "title": "ACQUIRED DISORDERS",
+          "start_index": 442,
+          "node_id": "0160",
+          "end_index": 449,
+          "summary": ""
+        },
+        {
+          "title": "MUSCLE DISEASES",
+          "start_index": 450,
+          "node_id": "0161",
+          "end_index": 452,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 16.1 SOME GENETICALLY DETERMINED SKELETAL DISORDERS",
+          "start_index": 453,
+          "node_id": "0162",
+          "end_index": 453,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 16.3 METABOLIC MYOPATHIES",
+          "start_index": 454,
+          "node_id": "0163",
+          "end_index": 455,
+          "summary": ""
+        }
+      ],
+      "node_id": "0157",
+      "end_index": 455,
+      "summary": ""
+    },
+    {
+      "title": "ALLERGIES",
+      "start_index": 456,
+      "nodes": [
+        {
+          "title": "GENERAL MANAGEMENT OF ALLERGIES",
+          "start_index": 457,
+          "node_id": "0165",
+          "end_index": 458,
+          "summary": ""
+        },
+        {
+          "title": "ANGIOEDEMA",
+          "start_index": 459,
+          "node_id": "0166",
+          "end_index": 460,
+          "summary": ""
+        },
+        {
+          "title": "HYPERSENSITIVITY TO DRUGS AND MATERIALS",
+          "start_index": 461,
+          "node_id": "0167",
+          "end_index": 463,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 17.1 LATEX ALLERGY",
+          "start_index": 464,
+          "node_id": "0168",
+          "end_index": 464,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 17.2 LATEX AND LOCAL ANAESTHESIA (LA)",
+          "start_index": 465,
+          "node_id": "0169",
+          "end_index": 466,
+          "summary": ""
+        }
+      ],
+      "node_id": "0164",
+      "end_index": 466,
+      "summary": ""
+    },
+    {
+      "title": "THE CONNECTIVE TISSUE DISEASES",
+      "start_index": 467,
+      "nodes": [
+        {
+          "title": "AUTOIMMUNE DISEASE",
+          "start_index": 468,
+          "node_id": "0171",
+          "end_index": 470,
+          "summary": ""
+        },
+        {
+          "title": "RHEUMATOID ARTHRITIS",
+          "start_index": 471,
+          "node_id": "0172",
+          "end_index": 476,
+          "summary": ""
+        },
+        {
+          "title": "VASCULITIS SYNDROMES",
+          "start_index": 477,
+          "node_id": "0173",
+          "end_index": 481,
+          "summary": ""
+        }
+      ],
+      "node_id": "0170",
+      "end_index": 481,
+      "summary": ""
+    },
+    {
+      "title": "IMMUNITY, INFLAMMATORY DISORDERS, IMMUNOSUPPRESSIVE AND ANTI-INFLAMMATORY AGENTS",
+      "start_index": 482,
+      "nodes": [
+        {
+          "title": "ACQUIRED IMMUNE RESPONSE",
+          "start_index": 483,
+          "node_id": "0175",
+          "end_index": 483,
+          "summary": ""
+        },
+        {
+          "title": "CELL-MEDIATED IMMUNITY",
+          "start_index": 484,
+          "node_id": "0176",
+          "end_index": 484,
+          "summary": ""
+        },
+        {
+          "title": "AUTOINFLAMMATORY DISEASES (PERIODIC SYNDROMES)",
+          "start_index": 485,
+          "node_id": "0177",
+          "end_index": 485,
+          "summary": ""
+        },
+        {
+          "title": "DEFICIENCY OF THE INTERLEUKIN-1 RECEPTOR ANTAGONIST (DIRA)",
+          "start_index": 486,
+          "node_id": "0178",
+          "end_index": 486,
+          "summary": ""
+        },
+        {
+          "title": "IMMUNOSUPPRESSIVE THERAPY",
+          "start_index": 487,
+          "node_id": "0179",
+          "end_index": 490,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 19.2 IMMUNOMODULATORY NON-BIOLOGICAL AGENTS",
+          "start_index": 491,
+          "node_id": "0180",
+          "end_index": 496,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 19.4 USES OF BIOLOGICS IN ORGAN DISEASE",
+          "start_index": 497,
+          "node_id": "0181",
+          "end_index": 499,
+          "summary": ""
+        }
+      ],
+      "node_id": "0174",
+      "end_index": 499,
+      "summary": ""
+    },
+    {
+      "title": "IMMUNODEFICIENCIES",
+      "start_index": 500,
+      "nodes": [
+        {
+          "title": "DENTAL ASPECTS OF HIV/AIDS",
+          "start_index": 509,
+          "node_id": "0183",
+          "end_index": 511,
+          "summary": ""
+        },
+        {
+          "title": "HIV/AIDS",
+          "start_index": 512,
+          "node_id": "0184",
+          "end_index": 514,
+          "summary": ""
+        },
+        {
+          "title": "OTHER SECONDARY IMMUNODEFICIENCIES",
+          "start_index": 515,
+          "node_id": "0185",
+          "end_index": 516,
+          "summary": ""
+        },
+        {
+          "title": "T-LYMPHOCYTE DEFECTS",
+          "start_index": 517,
+          "node_id": "0186",
+          "end_index": 518,
+          "summary": ""
+        },
+        {
+          "title": "ANTIBODY DEFICIENCY SYNDROMES",
+          "start_index": 519,
+          "node_id": "0187",
+          "end_index": 520,
+          "summary": ""
+        },
+        {
+          "title": "COMPLEMENT DEFECTS",
+          "start_index": 521,
+          "node_id": "0188",
+          "end_index": 526,
+          "summary": ""
+        },
+        {
+          "title": "DISEASE NOTIFICATION",
+          "start_index": 527,
+          "node_id": "0189",
+          "end_index": 527,
+          "summary": ""
+        }
+      ],
+      "node_id": "0182",
+      "end_index": 527,
+      "summary": ""
+    },
+    {
+      "title": "INFECTIONS AND INFESTATIONS",
+      "start_index": 528,
+      "nodes": [
+        {
+          "title": "OROFACIAL AND ODONTOGENIC BACTERIAL INFECTIONS",
+          "start_index": 529,
+          "node_id": "0191",
+          "end_index": 532,
+          "summary": ""
+        },
+        {
+          "title": "HEALTH-CARE-ASSOCIATED (NOSOCOMIAL) INFECTIONS (HCAIs)",
+          "start_index": 533,
+          "node_id": "0192",
+          "end_index": 534,
+          "summary": ""
+        },
+        {
+          "title": "ANTIBIOTIC-RESISTANT INFECTIONS",
+          "start_index": 535,
+          "node_id": "0193",
+          "end_index": 536,
+          "summary": ""
+        },
+        {
+          "title": "TETANUS, PUNCTURE WOUNDS AND BITES",
+          "start_index": 537,
+          "node_id": "0194",
+          "end_index": 537,
+          "summary": ""
+        },
+        {
+          "title": "VANCOMYCIN-RESISTANT BACTERIA",
+          "start_index": 537,
+          "node_id": "0195",
+          "end_index": 538,
+          "summary": ""
+        },
+        {
+          "title": "OTHER BACTERIAL INFECTIONS",
+          "start_index": 539,
+          "node_id": "0196",
+          "end_index": 540,
+          "summary": ""
+        },
+        {
+          "title": "HERPESVIRUSES",
+          "start_index": 541,
+          "node_id": "0197",
+          "end_index": 545,
+          "summary": ""
+        },
+        {
+          "title": "HUMAN HERPESVIRUS",
+          "start_index": 546,
+          "node_id": "0198",
+          "end_index": 546,
+          "summary": ""
+        },
+        {
+          "title": "RUBELLA (GERMAN MEASLES)",
+          "start_index": 547,
+          "node_id": "0199",
+          "end_index": 548,
+          "summary": ""
+        },
+        {
+          "title": "SUPERFICIAL MYCOSES",
+          "start_index": 549,
+          "node_id": "0200",
+          "end_index": 550,
+          "summary": ""
+        },
+        {
+          "title": "SYSTEMIC MYCOSES (DEEP MYCOSES)",
+          "start_index": 551,
+          "node_id": "0201",
+          "end_index": 554,
+          "summary": ""
+        },
+        {
+          "title": "WORMS",
+          "start_index": 555,
+          "node_id": "0202",
+          "end_index": 558,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 21.3 SOME ANTIBACTERIALS",
+          "start_index": 559,
+          "node_id": "0203",
+          "end_index": 560,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 21.4 SUMMARY OF THE MAIN ANTIBACTERIAL AGENTS USED IN DENTISTRY",
+          "start_index": 561,
+          "node_id": "0204",
+          "end_index": 568,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 21.8 COMMON VIRAL INFECTIONS THAT MAY HAVE IMPLICATIONS IN DENTISTRY",
+          "start_index": 569,
+          "node_id": "0205",
+          "end_index": 570,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 21.9 VIRAL INFECTIONS PREVALENT MAINLY IN THE DEVELOPING WORLD",
+          "start_index": 571,
+          "node_id": "0206",
+          "end_index": 572,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 21.11 IMPORTANT SYSTEMIC (DEEP) MYCOSES",
+          "start_index": 573,
+          "node_id": "0207",
+          "end_index": 573,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 21.10 MAIN ANTIFUNGAL DRUGS",
+          "start_index": 573,
+          "node_id": "0208",
+          "end_index": 573,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 21.12 MAIN PARASITIC INFESTATIONS",
+          "start_index": 574,
+          "node_id": "0209",
+          "end_index": 576,
+          "summary": ""
+        }
+      ],
+      "node_id": "0190",
+      "end_index": 576,
+      "summary": ""
+    },
+    {
+      "title": "MALIGNANT DISEASE",
+      "start_index": 577,
+      "nodes": [
+        {
+          "title": "CANCER PREVENTION",
+          "start_index": 577,
+          "node_id": "0211",
+          "end_index": 578,
+          "summary": ""
+        },
+        {
+          "title": "ORAL CANCER",
+          "start_index": 579,
+          "node_id": "0212",
+          "end_index": 588,
+          "summary": ""
+        },
+        {
+          "title": "END-OF-LIFE CARE",
+          "start_index": 589,
+          "node_id": "0213",
+          "end_index": 590,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 22.1 ORAL MANIFESTATIONS OF INTERNAL CANCER",
+          "start_index": 591,
+          "node_id": "0214",
+          "end_index": 592,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 22.5 COLONY-STIMULATING FACTORS",
+          "start_index": 593,
+          "node_id": "0215",
+          "end_index": 594,
+          "summary": ""
+        }
+      ],
+      "node_id": "0210",
+      "end_index": 594,
+      "summary": ""
+    },
+    {
+      "title": "INBORN ERRORS OF METABOLISM",
+      "start_index": 595,
+      "nodes": [
+        {
+          "title": "METABOLIC DISORDERS",
+          "start_index": 596,
+          "node_id": "0217",
+          "end_index": 596,
+          "summary": ""
+        },
+        {
+          "title": "ERRORS IN AMINO ACID AND ORGANIC ACID METABOLISM",
+          "start_index": 597,
+          "node_id": "0218",
+          "end_index": 599,
+          "summary": ""
+        },
+        {
+          "title": "ENZYME DEFECTS AFFECTING DRUG METABOLISM",
+          "start_index": 600,
+          "node_id": "0219",
+          "end_index": 602,
+          "summary": ""
+        },
+        {
+          "title": "ACQUIRED METABOLIC DISORDERS",
+          "start_index": 603,
+          "node_id": "0220",
+          "end_index": 604,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 23.1 INBORN ERRORS OF METABOLISM",
+          "start_index": 605,
+          "node_id": "0221",
+          "end_index": 607,
+          "summary": ""
+        }
+      ],
+      "node_id": "0216",
+      "end_index": 607,
+      "summary": ""
+    },
+    {
+      "title": "TRAUMA, BURNS AND ABUSE",
+      "start_index": 608,
+      "nodes": [
+        {
+          "title": "HEAD INJURIES",
+          "start_index": 609,
+          "node_id": "0223",
+          "end_index": 612,
+          "summary": ""
+        },
+        {
+          "title": "MAXILLOFACIAL INJURIES",
+          "start_index": 613,
+          "node_id": "0224",
+          "end_index": 613,
+          "summary": ""
+        },
+        {
+          "title": "EMERGENCY CARE",
+          "start_index": 614,
+          "node_id": "0225",
+          "end_index": 614,
+          "summary": ""
+        },
+        {
+          "title": "GUNSHOT AND EXPLOSIVE WOUNDS",
+          "start_index": 615,
+          "node_id": "0226",
+          "end_index": 615,
+          "summary": ""
+        },
+        {
+          "title": "COMPLICATIONS OF MAXILLOFACIAL INJURIES",
+          "start_index": 615,
+          "node_id": "0227",
+          "end_index": 616,
+          "summary": ""
+        },
+        {
+          "title": "BURNS",
+          "start_index": 617,
+          "node_id": "0228",
+          "end_index": 618,
+          "summary": ""
+        },
+        {
+          "title": "VULNERABLE PEOPLE",
+          "start_index": 619,
+          "node_id": "0229",
+          "end_index": 622,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 24.1 CAUSES OF COMA",
+          "start_index": 623,
+          "node_id": "0230",
+          "end_index": 623,
+          "summary": ""
+        }
+      ],
+      "node_id": "0222",
+      "end_index": 623,
+      "summary": ""
+    },
+    {
+      "title": "AGE AND GENDER ISSUES",
+      "start_index": 624,
+      "nodes": [
+        {
+          "title": "EITHER GENDER",
+          "start_index": 624,
+          "node_id": "0232",
+          "end_index": 624,
+          "summary": ""
+        },
+        {
+          "title": "CHILDREN",
+          "start_index": 624,
+          "node_id": "0233",
+          "end_index": 627,
+          "summary": ""
+        },
+        {
+          "title": "OLDER PEOPLE",
+          "start_index": 628,
+          "node_id": "0234",
+          "end_index": 632,
+          "summary": ""
+        },
+        {
+          "title": "BLADDER PROBLEMS",
+          "start_index": 633,
+          "node_id": "0235",
+          "end_index": 638,
+          "summary": ""
+        },
+        {
+          "title": "PREGNANCY",
+          "start_index": 639,
+          "node_id": "0236",
+          "end_index": 644,
+          "summary": ""
+        },
+        {
+          "title": "TRANSGENDER",
+          "start_index": 645,
+          "node_id": "0237",
+          "end_index": 645,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 25.1 DRUGS CONTRAINDICATED IN PREGNANCY",
+          "start_index": 646,
+          "node_id": "0238",
+          "end_index": 647,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 25.2 DRUG EFFECTS ON BREAST-FEEDING INFANTS",
+          "start_index": 648,
+          "node_id": "0239",
+          "end_index": 649,
+          "summary": ""
+        }
+      ],
+      "node_id": "0231",
+      "end_index": 649,
+      "summary": ""
+    },
+    {
+      "title": "COMPLEMENTARY AND ALTERNATIVE MEDICINE",
+      "start_index": 650,
+      "nodes": [
+        {
+          "title": "HERBAL MEDICINES",
+          "start_index": 650,
+          "node_id": "0241",
+          "end_index": 651,
+          "summary": ""
+        },
+        {
+          "title": "PROBIOTICS",
+          "start_index": 652,
+          "node_id": "0242",
+          "end_index": 653,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 26.2 HERBAL PREPARATIONS AND SUPPLEMENTS",
+          "start_index": 654,
+          "node_id": "0243",
+          "end_index": 655,
+          "summary": ""
+        }
+      ],
+      "node_id": "0240",
+      "end_index": 655,
+      "summary": ""
+    },
+    {
+      "title": "DIET AND HEALTH",
+      "start_index": 656,
+      "nodes": [
+        {
+          "title": "DIETARY FACTORS AND HEALTH AND DISEASE",
+          "start_index": 657,
+          "node_id": "0245",
+          "end_index": 657,
+          "summary": ""
+        },
+        {
+          "title": "MALNUTRITION",
+          "start_index": 658,
+          "node_id": "0246",
+          "end_index": 663,
+          "summary": ""
+        },
+        {
+          "title": "VITAMINS AND THEIR DISORDERS",
+          "start_index": 664,
+          "node_id": "0247",
+          "end_index": 665,
+          "summary": ""
+        },
+        {
+          "title": "POLYPHENOLS",
+          "start_index": 666,
+          "node_id": "0248",
+          "end_index": 667,
+          "summary": ""
+        },
+        {
+          "title": "EFFECTS OF FOODS ON DRUG ABSORPTION",
+          "start_index": 668,
+          "node_id": "0249",
+          "end_index": 669,
+          "summary": ""
+        },
+        {
+          "title": "NUTRITIONAL SUPPORT",
+          "start_index": 670,
+          "node_id": "0250",
+          "end_index": 671,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 27.1 E-NUMBERS: REFERENCE NUMBERS USED BY THE EUROPEAN UNION",
+          "start_index": 672,
+          "node_id": "0251",
+          "end_index": 673,
+          "summary": ""
+        }
+      ],
+      "node_id": "0244",
+      "end_index": 673,
+      "summary": ""
+    },
+    {
+      "title": "PHYSICAL IMPAIRMENTS",
+      "start_index": 674,
+      "nodes": [
+        {
+          "title": "CEREBRAL PALSY",
+          "start_index": 674,
+          "node_id": "0253",
+          "end_index": 674,
+          "summary": ""
+        },
+        {
+          "title": "IMPAIRMENT AND DISABILITY",
+          "start_index": 675,
+          "node_id": "0254",
+          "end_index": 677,
+          "summary": ""
+        },
+        {
+          "title": "LEARNING IMPAIRMENT",
+          "start_index": 678,
+          "node_id": "0255",
+          "end_index": 682,
+          "summary": ""
+        },
+        {
+          "title": "ATTENTION DEFICIT (HYPERACTIVITY) DISORDER",
+          "start_index": 683,
+          "node_id": "0256",
+          "end_index": 684,
+          "summary": ""
+        }
+      ],
+      "node_id": "0252",
+      "end_index": 684,
+      "summary": ""
+    },
+    {
+      "title": "MATERIALS AND DRUGS",
+      "start_index": 685,
+      "nodes": [
+        {
+          "title": "DENTAL MATERIALS",
+          "start_index": 686,
+          "node_id": "0258",
+          "end_index": 686,
+          "summary": ""
+        },
+        {
+          "title": "CONCERNS ABOUT DENTURE FIXATIVES",
+          "start_index": 686,
+          "node_id": "0259",
+          "end_index": 687,
+          "summary": ""
+        },
+        {
+          "title": "DRUGS",
+          "start_index": 688,
+          "node_id": "0260",
+          "end_index": 688,
+          "summary": ""
+        },
+        {
+          "title": "SUSPECTED ADVERSE DRUG REACTIONS",
+          "start_index": 689,
+          "node_id": "0261",
+          "end_index": 696,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 29.1 SUMMARY OF OFFICIAL BODY COMMENTS ON DENTAL AMALGAM SAFETY",
+          "start_index": 697,
+          "node_id": "0262",
+          "end_index": 697,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 29.6 DRUGS IMPLICATED IN DISTURBED TASTE",
+          "start_index": 698,
+          "node_id": "0263",
+          "end_index": 699,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 29.14 DRUGS IMPLICATED IN CHEILITIS",
+          "start_index": 700,
+          "node_id": "0264",
+          "end_index": 700,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 29.9 DRUGS IMPLICATED IN ORAL CANDIDOSIS",
+          "start_index": 700,
+          "node_id": "0265",
+          "end_index": 700,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 29.10 DRUGS IMPLICATED IN PEMPHIGOID-LIKE REACTIONS",
+          "start_index": 700,
+          "node_id": "0266",
+          "end_index": 700,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 29.17 DRUGS IMPLICATED IN GINGIVAL SWELLING",
+          "start_index": 701,
+          "node_id": "0267",
+          "end_index": 701,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 29.23 DRUGS IMPLICATED IN TOOTH DISCOLORATION",
+          "start_index": 702,
+          "node_id": "0268",
+          "end_index": 703,
+          "summary": ""
+        }
+      ],
+      "node_id": "0257",
+      "end_index": 703,
+      "summary": ""
+    },
+    {
+      "title": "MINORITY GROUPS",
+      "start_index": 704,
+      "nodes": [
+        {
+          "title": "IMMIGRANTS",
+          "start_index": 704,
+          "node_id": "0270",
+          "end_index": 705,
+          "summary": ""
+        },
+        {
+          "title": "ROMA",
+          "start_index": 706,
+          "node_id": "0271",
+          "end_index": 706,
+          "summary": ""
+        },
+        {
+          "title": "REFUGEES AND ASYLEES",
+          "start_index": 706,
+          "node_id": "0272",
+          "end_index": 708,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 30.1 ACCEPTABLE ALTERNATIVE PRODUCTS SUITABLE FOR JEHOVAH’S WITNESSES",
+          "start_index": 709,
+          "node_id": "0273",
+          "end_index": 710,
+          "summary": ""
+        }
+      ],
+      "node_id": "0269",
+      "end_index": 710,
+      "summary": ""
+    },
+    {
+      "title": "OCCUPATIONAL HAZARDS",
+      "start_index": 711,
+      "nodes": [
+        {
+          "title": "PHYSICAL AND CHEMICAL HAZARDS",
+          "start_index": 716,
+          "node_id": "0275",
+          "end_index": 719,
+          "summary": ""
+        },
+        {
+          "title": "RADIATION HAZARDS",
+          "start_index": 720,
+          "node_id": "0276",
+          "end_index": 721,
+          "summary": ""
+        },
+        {
+          "title": "HAZARDS TO SPECIFIC BODY SYSTEMS",
+          "start_index": 722,
+          "node_id": "0277",
+          "end_index": 727,
+          "summary": ""
+        }
+      ],
+      "node_id": "0274",
+      "end_index": 727,
+      "summary": ""
+    },
+    {
+      "title": "REPRODUCTIVE (SEXUAL) HEALTH",
+      "start_index": 728,
+      "nodes": [
+        {
+          "title": "SEXUALLY SHARED INFECTIONS SEEN WORLDWIDE",
+          "start_index": 728,
+          "node_id": "0279",
+          "end_index": 729,
+          "summary": ""
+        },
+        {
+          "title": "ALPHABETICAL LIST OF SEXUALLY SHARED",
+          "start_index": 730,
+          "node_id": "0280",
+          "end_index": 733,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 32.1 NON-VENEREAL TREPONEMATOSES (ENDEMIC TREPONEMATOSES)",
+          "start_index": 734,
+          "node_id": "0281",
+          "end_index": 734,
+          "summary": ""
+        }
+      ],
+      "node_id": "0278",
+      "end_index": 734,
+      "summary": ""
+    },
+    {
+      "title": "SPORTS, TRAVEL AND LEISURE, AND PETS",
+      "start_index": 735,
+      "nodes": [
+        {
+          "title": "SPORTS",
+          "start_index": 735,
+          "node_id": "0283",
+          "end_index": 737,
+          "summary": ""
+        },
+        {
+          "title": "TRAVEL AND LEISURE",
+          "start_index": 738,
+          "node_id": "0284",
+          "end_index": 744,
+          "summary": ""
+        },
+        {
+          "title": "MASS GATHERING MEDICINE",
+          "start_index": 745,
+          "node_id": "0285",
+          "end_index": 746,
+          "summary": ""
+        }
+      ],
+      "node_id": "0282",
+      "end_index": 746,
+      "summary": ""
+    },
+    {
+      "title": "SUBSTANCE DEPENDENCE",
+      "start_index": 747,
+      "nodes": [
+        {
+          "title": "GENERAL MANAGEMENT",
+          "start_index": 748,
+          "node_id": "0287",
+          "end_index": 749,
+          "summary": ""
+        },
+        {
+          "title": "MAIN GROUPS OF DRUGS ABUSED",
+          "start_index": 750,
+          "node_id": "0288",
+          "end_index": 750,
+          "summary": ""
+        },
+        {
+          "title": "STIMULANTS",
+          "start_index": 751,
+          "node_id": "0289",
+          "end_index": 753,
+          "summary": ""
+        },
+        {
+          "title": "ALPHABET OF DRUGS OF MISUSE",
+          "start_index": 754,
+          "node_id": "0290",
+          "end_index": 758,
+          "summary": ""
+        },
+        {
+          "title": "ECSTASY (3,4-METHYLENEDIOXY￾METHAMPHETAMINE; MDMA)",
+          "start_index": 759,
+          "node_id": "0291",
+          "end_index": 760,
+          "summary": ""
+        },
+        {
+          "title": "METHYLPHENIDATE (RITALIN)",
+          "start_index": 761,
+          "node_id": "0292",
+          "end_index": 769,
+          "summary": ""
+        },
+        {
+          "title": "APPENDIX 34.2 NHS ALCOHOL SELF-ASSESSMENT",
+          "start_index": 770,
+          "node_id": "0293",
+          "end_index": 770,
+          "summary": ""
+        }
+      ],
+      "node_id": "0286",
+      "end_index": 770,
+      "summary": ""
+    },
+    {
+      "title": "TRANSPLANTS",
+      "start_index": 771,
+      "nodes": [
+        {
+          "title": "TRANSPLANTATION AND TISSUE REGENERATION",
+          "start_index": 773,
+          "node_id": "0295",
+          "end_index": 773,
+          "summary": ""
+        },
+        {
+          "title": "TRANSPLANTATION COMPLICATIONS",
+          "start_index": 774,
+          "node_id": "0296",
+          "end_index": 775,
+          "summary": ""
+        },
+        {
+          "title": "HAEMOPOIETIC STEM-CELL TRANSPLANTATION (BONE MARROW TRANSPLANTATION)",
+          "start_index": 776,
+          "node_id": "0297",
+          "end_index": 777,
+          "summary": ""
+        },
+        {
+          "title": "TRANSPLANTATION AND TISSUE ENGINEERING OF CRANIOFACIAL STRUCTURES",
+          "start_index": 778,
+          "node_id": "0298",
+          "end_index": 781,
+          "summary": ""
+        }
+      ],
+      "node_id": "0294",
+      "end_index": 781,
+      "summary": ""
+    },
+    {
+      "title": "HEALTH PROMOTION",
+      "start_index": 782,
+      "nodes": [],
+      "node_id": "0299",
+      "end_index": 784,
+      "summary": ""
+    },
+    {
+      "title": "EPONYMOUS AND ACRONYMOUS DISEASES AND SIGNS",
+      "start_index": 785,
+      "nodes": [],
+      "node_id": "0300",
+      "end_index": 790,
+      "summary": ""
+    },
+    {
+      "title": "INDEX",
+      "start_index": 791,
+      "nodes": [],
+      "node_id": "0301",
+      "end_index": 816,
+      "summary": ""
+    }
+  ],
+  "toc_source": "manual"
+}

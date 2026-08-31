@@ -88,22 +88,43 @@ def _to_int(v):
         return None
 
 
-def flatten_nodes(nodes, path=""):
-    """Flatten a nested tree into a flat list of (path, node) for reasoning."""
+# A node spanning fewer pages than this is treated as a heading-only leaf
+# (start == end) that holds no body text, so tree search should skip it and
+# fall back to a meaningful ancestor instead.
+MIN_SPAN_PAGES = 2
+
+
+def _span_pages(node):
+    s = _to_int(node.get("start_index"))
+    e = _to_int(node.get("end_index"))
+    if s is None or e is None:
+        return None
+    return e - s + 1
+
+
+def flatten_nodes(nodes, path="", parent_id=None):
+    """Flatten a nested tree into a flat list of (path, node) for reasoning,
+    plus a node_id -> {"entry": ..., "parent_id": ...} map for parent fallback."""
     flat = []
+    node_map = {}
     for n in nodes:
+        nid = n.get("node_id")
         label = f"{path} > {n.get('title', '')}" if path else n.get("title", "")
-        flat.append({
-            "node_id": n.get("node_id"),
+        entry = {
+            "node_id": nid,
             "title": label,
             "summary": n.get("summary", ""),
             "start_index": _to_int(n.get("start_index")),
             "end_index": _to_int(n.get("end_index")),
-        })
+        }
+        flat.append(entry)
+        node_map[nid] = {"entry": entry, "parent_id": parent_id}
         children = n.get("nodes", [])
         if children:
-            flat.extend(flatten_nodes(children, label))
-    return flat
+            child_flat, child_map = flatten_nodes(children, label, nid)
+            flat.extend(child_flat)
+            node_map.update(child_map)
+    return flat, node_map
 
 
 # ---------------------------------------------------------------------------
@@ -142,10 +163,17 @@ ordered by relevance. Example: ["shafer", "scully"]"""
 # ---------------------------------------------------------------------------
 
 def pick_nodes(question, book_key, registry, top_k=2):
-    flat = flatten_nodes(registry[book_key]["top_nodes"])
+    flat, node_map = flatten_nodes(registry[book_key]["top_nodes"])
+
+    # Only offer nodes with enough pages to actually hold content, so the LLM
+    # can't select a single-page heading leaf that has no body text.
+    candidates = [n for n in flat if _span_pages(n) is not None and _span_pages(n) >= MIN_SPAN_PAGES]
+    if not candidates:
+        candidates = flat
+
     listing = "\n".join(
         f'- node_id={n["node_id"]} | {n["title"]} | pages {n["start_index"]}-{n["end_index"]} | {n["summary"][:200]}'
-        for n in flat
+        for n in candidates
     )
     prompt = f"""You are searching the tree index of "{book_key}" to answer a dental question.
 
@@ -166,9 +194,27 @@ Example: ["0007", "0012"]"""
         start, end = text.index("["), text.rindex("]") + 1
         ids = json.loads(text[start:end])
     except Exception:
-        ids = [n["node_id"] for n in flat[:top_k]]
+        ids = [n["node_id"] for n in candidates[:top_k]]
 
-    return [n for n in flat if n["node_id"] in ids]
+    chosen = [node_map[i]["entry"] for i in ids if i in node_map]
+    if not chosen:
+        chosen = [candidates[0]] if candidates else flat[:1]
+
+    # Parent fallback: if a chosen node is too thin, walk up to the nearest
+    # ancestor with a meaningful page range.
+    result = []
+    for entry in chosen:
+        cur = entry
+        span = _span_pages(cur)
+        while (span is None or span < MIN_SPAN_PAGES) and cur["node_id"] in node_map \
+                and node_map[cur["node_id"]]["parent_id"] is not None:
+            pid = node_map[cur["node_id"]]["parent_id"]
+            if pid not in node_map:
+                break
+            cur = node_map[pid]["entry"]
+            span = _span_pages(cur)
+        result.append(cur)
+    return result
 
 
 # ---------------------------------------------------------------------------
@@ -280,7 +326,7 @@ def main():
             if args.summary_only:
                 answer = answer_with_summary_only(question, book_key, best_node)
             else:
-                answer = answer_with_pages(question, book_key, best_node)
+                answer = answer_with_pages(question, book_key, best_node, registry)
 
             print(f"\n--- Answer (source: {book_key}, pages {best_node['start_index']}-{best_node['end_index']}) ---")
             print(answer)
