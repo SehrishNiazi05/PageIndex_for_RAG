@@ -1,0 +1,6 @@
+.DS_Store
+venv/
+__pycache__/
+*.pyc
+data/input_textbooks/*.pdf
+extracted_trees/*.json
