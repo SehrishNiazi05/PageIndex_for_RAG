@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Dentist · Textbook reference</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M16 3c5-3 12 1 12 8 0 5-3 7-4 12-1 4-3 6-5 6-3 0-1-9-3-9s0 9-3 9c-2 0-4-2-5-6C7 18 4 16 4 11 4 4 11 0 16 3Z"/></svg></span><span>AI Dentist</span></div>
+      <span class="topnote">Local textbook reference</span>
+      <span id="index-state" class="index-state" role="status">Checking index…</span>
+    </header>
+
+    <main class="workspace">
+      <aside class="rail" aria-label="Reference settings">
+        <h2>Reference desk</h2>
+        <p>Answers are drawn from the nine indexed dental textbooks. Each cited passage opens at its PDF page.</p>
+        <fieldset class="mode-field">
+          <legend>Audience</legend>
+          <label class="mode"><input type="radio" name="audience" value="clinician" checked><span><strong>Clinician / student</strong><small>Textbook detail and terminology</small></span></label>
+          <label class="mode"><input type="radio" name="audience" value="patient"><span><strong>General education</strong><small>Plain language, no personal assessment</small></span></label>
+        </fieldset>
+        <div class="scope"><strong>Use this as a reference</strong><p>Check cited pages and use clinical judgment. Patient mode answers general questions and directs personal concerns to an examination.</p></div>
+      </aside>
+
+      <section class="conversation" aria-labelledby="page-title">
+        <div class="intro"><h1 id="page-title">Ask the textbooks.</h1><p>Search across pediatric dentistry, periodontology, orthodontics, oral medicine, radiology, operative dentistry, prosthodontics, and pathology.</p></div>
+        <form id="ask-form">
+          <label for="question">Your question</label>
+          <textarea id="question" name="question" rows="4" maxlength="2000" required placeholder="For example: What are the textbook indications for a pulpotomy in primary teeth?"></textarea>
+          <div class="form-footer"><span>Questions and selected excerpts are sent to DeepSeek when configured.</span><button type="submit" id="ask-button">Find an answer <span aria-hidden="true">→</span></button></div>
+        </form>
+        <div id="result" class="result hidden" aria-live="polite">
+          <div class="result-head"><h2>Answer</h2><span id="status" class="status"></span></div>
+          <div id="answer" class="answer"></div>
+          <div id="sources" class="sources"></div>
+        </div>
+        <div id="error" class="error hidden" role="alert"></div>
+      </section>
+    </main>
+  </div>
+  <script src="/static/app.js?v=audience-fix-1" defer></script>
+</body>
+</html>

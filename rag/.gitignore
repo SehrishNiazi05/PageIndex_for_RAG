@@ -1,0 +1,8 @@
+.env.local
+.venv/
+__pycache__/
+*/__pycache__/
+data/hf/
+data/qdrant/
+data/rag.sqlite*
+data/
