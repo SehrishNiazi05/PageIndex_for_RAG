@@ -1,0 +1,29 @@
+# Paths are relative to this file. Original PDFs are never modified.
+input_dir = "../textbooks"
+output_dir = "output"
+
+# A batch has its own JSON, Markdown, images, log, and quality report.
+# Smaller batches limit memory use on the 3,879-page surgery volume.
+batch_size = 40
+threads = 4
+document_timeout_seconds = 1800
+
+# The inspected books have native PDF text. Use "auto" for a separate OCR
+# pass on image-text pages, or "full_page" only for pages without usable text.
+ocr_mode = "off" # off | auto | full_page
+
+# Keep tables as structured objects and export detected figures as PNG files.
+table_mode = "accurate" # accurate | fast
+image_scale = 2.0 # 2.0 renders detected figure crops at about 144 DPI
+
+# Flag pages where Docling retains too little text relative to the PDF layer.
+min_source_chars = 300
+min_retained_fraction = 0.45
+
+# Optional exact-filename overrides for books that need different settings.
+# Start with the defaults, inspect quality.json and sample pages, then enable
+# only the changes justified by that book. The PDF stays untouched.
+# [books."Example scanned textbook.pdf"]
+# ocr_mode = "auto"
+# batch_size = 20
+# image_scale = 2.5
